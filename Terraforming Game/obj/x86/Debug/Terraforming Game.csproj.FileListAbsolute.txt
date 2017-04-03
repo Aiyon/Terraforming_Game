@@ -1,0 +1,32 @@
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Terraforming Game.exe
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Terraforming Game.pdb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\obj\x86\Debug\Terraforming Game.exe
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\obj\x86\Debug\Terraforming Game.pdb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\empty.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\UIText.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\obj\x86\Debug\Terraforming Game.csprojResolveAssemblyReference.cache
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\UIText2.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\button.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\buttonhover.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\buttonpressed.xnb
+C:\Users\Barney\Desktop\Monono\Terraforming Game\Terraforming Game\bin\Windows\Debug\Content\buttontransparent.xnb

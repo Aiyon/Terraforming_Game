@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/empty.png</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/UIText.spritefont</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/UIText2.spritefont</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/button.png</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/buttonhover.png</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/buttonpressed.png</File>
+    <File>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/buttontransparent.png</File>
+  </SourceFiles>
+</SourceFileCollection>

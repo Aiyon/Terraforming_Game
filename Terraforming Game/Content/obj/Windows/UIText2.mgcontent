@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/UIText2.spritefont</SourceFile>
+  <SourceTime>2017-04-02T19:30:58.5990669+01:00</SourceTime>
+  <DestFile>C:/Users/Barney/Desktop/Monono/Terraforming Game/Terraforming Game/Content/bin/Windows/UIText2.xnb</DestFile>
+  <DestTime>2017-04-02T19:31:03.4236936+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-02-15T18:25:40+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-02-15T18:25:40+00:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
